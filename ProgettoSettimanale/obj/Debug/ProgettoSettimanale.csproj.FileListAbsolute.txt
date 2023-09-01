@@ -1,0 +1,7 @@
+C:\Users\beani\source\repos\ProgettoSettimanale\ProgettoSettimanale\bin\Debug\ProgettoSettimanale.exe.config
+C:\Users\beani\source\repos\ProgettoSettimanale\ProgettoSettimanale\bin\Debug\ProgettoSettimanale.exe
+C:\Users\beani\source\repos\ProgettoSettimanale\ProgettoSettimanale\bin\Debug\ProgettoSettimanale.pdb
+C:\Users\beani\source\repos\ProgettoSettimanale\ProgettoSettimanale\obj\Debug\ProgettoSettimanale.csproj.AssemblyReference.cache
+C:\Users\beani\source\repos\ProgettoSettimanale\ProgettoSettimanale\obj\Debug\ProgettoSettimanale.csproj.CoreCompileInputs.cache
+C:\Users\beani\source\repos\ProgettoSettimanale\ProgettoSettimanale\obj\Debug\ProgettoSettimanale.exe
+C:\Users\beani\source\repos\ProgettoSettimanale\ProgettoSettimanale\obj\Debug\ProgettoSettimanale.pdb
